@@ -262,11 +262,3 @@ console.log("O fatorial de " + n1 + " é: " + fatorial)
         b = c
     }
 ```
-
-## 🚀 Como executar
->Instale o Node.js:
-https://nodejs.org
-
-
->Instale a biblioteca prompt-sync: ```npm install prompt-sync```
-Execute o arquivo no terminal: ```node exercicios.js```
